@@ -11,161 +11,214 @@ msgstr ""
 "Language: fa\n"
 "X-Generator: Poedit 1.6.4\n"
 
+msgctxt "datex"
 msgid "Farvardin"
 msgstr "فروردین"
 
+msgctxt "datex"
 msgid "Ordibehesht"
 msgstr "اردیبهشت"
 
+msgctxt "datex"
 msgid "Khordad"
 msgstr "خرداد"
 
+msgctxt "datex"
 msgid "Tir"
 msgstr "تیر"
 
+msgctxt "datex"
 msgid "Mordad"
 msgstr "مرداد"
 
+msgctxt "datex"
 msgid "Shahrivar"
 msgstr "شهریور"
 
+msgctxt "datex"
 msgid "Mehr"
 msgstr "مهر"
 
+msgctxt "datex"
 msgid "Aban"
 msgstr "آبان"
 
+msgctxt "datex"
 msgid "Azar"
 msgstr "آذر"
 
+msgctxt "datex"
 msgid "Dei"
 msgstr "دی"
 
+msgctxt "datex"
 msgid "Bahman"
 msgstr "بهمن"
 
+msgctxt "datex"
 msgid "Esfand"
 msgstr "اسفند"
 
+msgctxt "datex"
 msgid "Ghablazohr"
 msgstr "قبل از ظهر"
 
+msgctxt "datex"
 msgid "Badazohr"
 msgstr "بعد از ظهر"
 
+msgctxt "datex"
 msgid "Shanbe"
 msgstr "شنبه"
 
+msgctxt "datex"
 msgid "Yekshanbe"
 msgstr "یکشنبه"
 
+msgctxt "datex"
 msgid "Doshanbe"
 msgstr "دوشنبه"
 
+msgctxt "datex"
 msgid "Seshanbe"
 msgstr "سه شنبه"
 
+msgctxt "datex"
 msgid "Cheharshanbe"
 msgstr "چهارشنبه"
 
+msgctxt "datex"
 msgid "Panjshanbe"
 msgstr "پنج شنبه"
 
+msgctxt "datex"
 msgid "Jome"
 msgstr "جمعه"
 
+msgctxt "datex"
 msgid "Yekom"
 msgstr "یکم"
 
+msgctxt "datex"
 msgid "Dovom"
 msgstr "دوم"
 
+msgctxt "datex"
 msgid "Sevom"
 msgstr "سوم"
 
+msgctxt "datex"
 msgid "Cheharom"
 msgstr "چهارم"
 
+msgctxt "datex"
 msgid "Panjom"
 msgstr "پنجم"
 
+msgctxt "datex"
 msgid "Sheshom"
 msgstr "ششم"
 
+msgctxt "datex"
 msgid "Haftom"
 msgstr "هفتم"
 
+msgctxt "datex"
 msgid "Hashtom"
 msgstr "هشتم"
 
+msgctxt "datex"
 msgid "Nohom"
 msgstr "نهم"
 
+msgctxt "datex"
 msgid "Dahom"
 msgstr "دهم"
 
+msgctxt "datex"
 msgid "Yazdahom"
 msgstr "یازدهم"
 
+msgctxt "datex"
 msgid "Davazdahom"
 msgstr "دوازدهم"
 
+msgctxt "datex"
 msgid "Sizdahom"
 msgstr "سیزدهم"
 
+msgctxt "datex"
 msgid "Chehardahom"
 msgstr "چهاردهم"
 
+msgctxt "datex"
 msgid "Panzdahom"
 msgstr "پانزدهم"
 
+msgctxt "datex"
 msgid "Shanzdahom"
 msgstr "شانزدهم"
 
+msgctxt "datex"
 msgid "Hefdahom"
 msgstr "هفدهم"
 
+msgctxt "datex"
 msgid "Hejdahom"
 msgstr "هیجدهم"
 
+msgctxt "datex"
 msgid "Noozdahom"
 msgstr "نوزدهم"
 
+msgctxt "datex"
 msgid "Bistom"
 msgstr "بیستم"
 
+msgctxt "datex"
 msgid "Bisto yekom"
 msgstr "بیست و یکم"
 
+msgctxt "datex"
 msgid "Bisto dovom"
 msgstr "بیست و دوم"
 
+msgctxt "datex"
 msgid "Bisto sevom"
 msgstr "بیست و سوم"
 
+msgctxt "datex"
 msgid "Bisto cheharom"
 msgstr "بیست و چهارم"
 
+msgctxt "datex"
 msgid "Bisto panjom"
 msgstr "بیست و پنجم"
 
+msgctxt "datex"
 msgid "Bisto sheshom"
 msgstr "بیست و ششم"
 
+msgctxt "datex"
 msgid "Bisto haftom"
 msgstr "بیست و هفتم"
 
+msgctxt "datex"
 msgid "Bisto hashtom"
 msgstr "بیست و هشتم"
 
+msgctxt "datex"
 msgid "Bisto nohom"
 msgstr "بیست و نهم"
 
+msgctxt "datex"
 msgid "Siom"
 msgstr "سیم"
 
+msgctxt "datex"
 msgid "Sio yekom"
 msgstr "سی و یکم"
 
+msgctxt "datex"
 msgid "Sio dovom"
 msgstr "سی و دوم"
