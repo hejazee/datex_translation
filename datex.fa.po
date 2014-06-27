@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Datex translate month & Date names\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ahmad Hejazee <mngafa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"X-Generator: Poedit 1.6.4\n"
+
+msgid "Farvardin"
+msgstr "فروردین"
+
+msgid "Ordibehesht"
+msgstr "اردیبهشت"
+
+msgid "Khordad"
+msgstr "خرداد"
+
+msgid "Tir"
+msgstr "تیر"
+
+msgid "Mordad"
+msgstr "مرداد"
+
+msgid "Shahrivar"
+msgstr "شهریور"
+
+msgid "Mehr"
+msgstr "مهر"
+
+msgid "Aban"
+msgstr "آبان"
+
+msgid "Azar"
+msgstr "آذر"
+
+msgid "Dei"
+msgstr "دی"
+
+msgid "Bahman"
+msgstr "بهمن"
+
+msgid "Esfand"
+msgstr "اسفند"
+
+msgid "Ghablazohr"
+msgstr "قبل از ظهر"
+
+msgid "Badazohr"
+msgstr "بعد از ظهر"
+
+msgid "Shanbe"
+msgstr "شنبه"
+
+msgid "Yekshanbe"
+msgstr "یکشنبه"
+
+msgid "Doshanbe"
+msgstr "دوشنبه"
+
+msgid "Seshanbe"
+msgstr "سه شنبه"
+
+msgid "Cheharshanbe"
+msgstr "چهارشنبه"
+
+msgid "Panjshanbe"
+msgstr "پنج شنبه"
+
+msgid "Jome"
+msgstr "جمعه"
+
+msgid "Yekom"
+msgstr "یکم"
+
+msgid "Dovom"
+msgstr "دوم"
+
+msgid "Sevom"
+msgstr "سوم"
+
+msgid "Cheharom"
+msgstr "چهارم"
+
+msgid "Panjom"
+msgstr "پنجم"
+
+msgid "Sheshom"
+msgstr "ششم"
+
+msgid "Haftom"
+msgstr "هفتم"
+
+msgid "Hashtom"
+msgstr "هشتم"
+
+msgid "Nohom"
+msgstr "نهم"
+
+msgid "Dahom"
+msgstr "دهم"
+
+msgid "Yazdahom"
+msgstr "یازدهم"
+
+msgid "Davazdahom"
+msgstr "دوازدهم"
+
+msgid "Sizdahom"
+msgstr "سیزدهم"
+
+msgid "Chehardahom"
+msgstr "چهاردهم"
+
+msgid "Panzdahom"
+msgstr "پانزدهم"
+
+msgid "Shanzdahom"
+msgstr "شانزدهم"
+
+msgid "Hefdahom"
+msgstr "هفدهم"
+
+msgid "Hejdahom"
+msgstr "هیجدهم"
+
+msgid "Noozdahom"
+msgstr "نوزدهم"
+
+msgid "Bistom"
+msgstr "بیستم"
+
+msgid "Bisto yekom"
+msgstr "بیست و یکم"
+
+msgid "Bisto dovom"
+msgstr "بیست و دوم"
+
+msgid "Bisto sevom"
+msgstr "بیست و سوم"
+
+msgid "Bisto cheharom"
+msgstr "بیست و چهارم"
+
+msgid "Bisto panjom"
+msgstr "بیست و پنجم"
+
+msgid "Bisto sheshom"
+msgstr "بیست و ششم"
+
+msgid "Bisto haftom"
+msgstr "بیست و هفتم"
+
+msgid "Bisto hashtom"
+msgstr "بیست و هشتم"
+
+msgid "Bisto nohom"
+msgstr "بیست و نهم"
+
+msgid "Siom"
+msgstr "سیم"
+
+msgid "Sio yekom"
+msgstr "سی و یکم"
+
+msgid "Sio dovom"
+msgstr "سی و دوم"
